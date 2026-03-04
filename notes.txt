@@ -1,0 +1,6 @@
+GitHub Learning Notes
+
+Day 1
+- Created my first repository
+- Learned what a commit is
+- Learned what a README file does
