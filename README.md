@@ -8,3 +8,6 @@ Topics I will learn:
 - Commits
 - Branches
 - Pull Requests
+## Week 2 Learning
+
+This week I am learning about branches and pull requests.
